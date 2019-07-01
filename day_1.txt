@@ -1,0 +1,30 @@
+Day 1
+
+I am going to learn about
+Machine Learning
+Computer vision
+Deep Learning
+
+1.Machine learning types
+	1.1) Supervised Learning
+		1.1.1) Regressinon (Linear and Logistic)
+		1.1.2) Classification
+	1.2) Un-Supervised Learning
+		1.2.1) Clustering
+		1.2.2) Density 
+
+Grasped below words and i will learn in upcomgin days
+
+1. Polynomial
+2. Error
+3. Overfitting
+4. Dimension reduction
+5. Degree of polynomial
+6. W, M and Lambda
+7. RSM
+8. Regularization
+9. Training/ Validation/ Testing Datasets
+10. 70-30 and 70-20-10 
+
+
+
