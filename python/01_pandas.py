@@ -32,3 +32,6 @@ list_df.rename(columns={'a':'x'},inplace=True)
 list_df['row_sum'] = list_df.iloc[:, 1:].sum(1)
 list_df.loc['Total'] = list_df[['a','b','c','row_sum']].sum()
 
+
+#change index name
+list_df.set_index('ind',inplace=True)
