@@ -1,0 +1,2 @@
+Linear Regression
+	1. https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/regression-analysis/find-a-linear-regression-equation/
